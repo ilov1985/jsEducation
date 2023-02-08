@@ -26,6 +26,11 @@
             align-items: center;
             word-wrap: break-word
         }
+        
+        .img {
+            width: 100%;
+            height: auto;
+        }
     </style>
 </head>
 
@@ -51,6 +56,13 @@
             const categorEl = document.createElement('p');
             categorEl.textContent = 'Категория: ' + item.Category;
             infoEl.appendChild(categorEl);
+
+            const imgEl = document.createElement('img');
+            imgEl.href = item.img;
+            imgEl.alt = 'разные фото';
+            imgEl.classList.add('img');
+            infoEl.appendChild(imgEl);
+
 
             const deskEl = document.createElement('p');
             deskEl.textContent = 'Описание: ' + item.Description;

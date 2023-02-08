@@ -5,6 +5,7 @@ const dataInfo = `[
       "Auth": "apiKey",
       "HTTPS": true,
       "Cors": "yes",
+      "img": "https://images.unsplash.com/photo-1674978056411-c96f5ab1f072?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxODY2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NzU4NTgxODI&ixlib=rb-4.0.3&q=80&w=1080",
       "Link": "https://www.adoptapet.com/public/apis/pet_list.html",
       "Category": "Animals"
     },
@@ -14,6 +15,7 @@ const dataInfo = `[
       "Auth": "",
       "HTTPS": true,
       "Cors": "no",
+      "img": "https://images.unsplash.com/photo-1673166260693-9e08d06b8588?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxODY2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NzU4NTgxOTI&ixlib=rb-4.0.3&q=80&w=1080",
       "Link": "https://theaxolotlapi.netlify.app/",
       "Category": "Animals"
     },
@@ -23,6 +25,7 @@ const dataInfo = `[
       "Auth": "",
       "HTTPS": true,
       "Cors": "no",
+      "img": "https://images.unsplash.com/photo-1674585714925-c096ba706a97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxODY2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NzU4NTgzNTI&ixlib=rb-4.0.3&q=80&w=1080",
       "Link": "https://alexwohlbruck.github.io/cat-facts/",
       "Category": "Animals"
     },
@@ -32,6 +35,7 @@ const dataInfo = `[
       "Auth": "",
       "HTTPS": true,
       "Cors": "no",
+      "img": "https://images.unsplash.com/photo-1673250367795-1f8ea37a780c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxODY2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NzU4NTgzODU&ixlib=rb-4.0.3&q=80&w=1080",
       "Link": "https://cataas.com/",
       "Category": "Animals"
     },
@@ -41,6 +45,7 @@ const dataInfo = `[
       "Auth": "apiKey",
       "HTTPS": true,
       "Cors": "no",
+      "img": "https://images.unsplash.com/photo-1674594430992-b5c221eb0e18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxODY2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NzU4NTg0MDc&ixlib=rb-4.0.3&q=80&w=1080",
       "Link": "https://docs.thecatapi.com/",
       "Category": "Animals"
     },
@@ -50,6 +55,7 @@ const dataInfo = `[
       "Auth": "",
       "HTTPS": true,
       "Cors": "yes",
+      "img": "https://images.unsplash.com/photo-1673972249409-2c27a19205b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxODY2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NzU4NTg0Mjk&ixlib=rb-4.0.3&q=80&w=1080",
       "Link": "https://dukengn.github.io/Dog-facts-API/",
       "Category": "Animals"
     },
@@ -59,6 +65,7 @@ const dataInfo = `[
       "Auth": "",
       "HTTPS": true,
       "Cors": "yes",
+      "img": "https://images.unsplash.com/photo-1673469389707-c6cffc424320?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxODY2Nzh8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NzU4NTg0NDc&ixlib=rb-4.0.3&q=80&w=1080",
       "Link": "https://kinduff.github.io/dog-api/",
       "Category": "Animals"
     }
