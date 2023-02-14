@@ -1,0 +1,47 @@
+.container {
+    max-width: 1600px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #e5e5e5;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.items {
+    max-width: 1200px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card {
+    width: 360px;
+    height: 581px;
+    margin: 15px;
+}
+
+.img {
+    width: 360px;
+    height: 420px;
+}
+
+.text {
+    padding-top: 24px;
+    padding-left: 16px;
+    padding-bottom: 19px;
+}
+
+.itemTitle {
+    size: 13px;
+}
+
+.itemDsc {
+    size: 14px;
+    margin-top: 13px;
+    margin-bottom: 18px;
+}
+
+.itemPrice {
+    color: #F16D7F;
+}
