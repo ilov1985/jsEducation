@@ -40,7 +40,3 @@ data.forEach(element => {
     priceEl.textContent = element.currency + element.price;
     textEl.appendChild(priceEl);
 });
-
-imgContainerEl.addEventListener('mouseover', function(e) {
-    // body
-});
